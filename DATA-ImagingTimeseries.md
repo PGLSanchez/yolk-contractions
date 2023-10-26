@@ -1,4 +1,4 @@
-Link to spreadsheet containing imaging metadata and timeseries: https://docs.google.com/spreadsheets/d/13b02XL2L4ye-n0SWxp8N52Qz-KfB6mN3Jgcbva2j_lE/edit?usp=sharing
+Link to spreadsheet containing imaging metadata and raw timeseries: https://docs.google.com/spreadsheets/d/13b02XL2L4ye-n0SWxp8N52Qz-KfB6mN3Jgcbva2j_lE/edit?usp=sharing
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 

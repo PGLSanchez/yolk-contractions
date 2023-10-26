@@ -1,4 +1,5 @@
 # yolk-contractions
+![banner](BANNER.png)
 
 Repository of data and code related to research on yolk contractions in goldfish eggs and embryos
 

@@ -1,6 +1,6 @@
 # yolk-contractions
 
-Repository of data and code related to manuscript on yolk contractions in goldfish eggs and embryos
+Repository of data and code related to research on yolk contractions in goldfish eggs and embryos
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 

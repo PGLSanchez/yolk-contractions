@@ -1,6 +1,6 @@
 # CODE-ContractionsAnalysis
 
-This repository contains the Python script (as a Jupyter notebook) for analyzing yolk contractions in fish embryos. Output of the script includes plot of normalized timeseries, plot of detrended timeseries, plot of instantaneous period and wavelet power, and plot of phase as heatmaps. 
+This repository contains the Python script (as a Jupyter notebook) for analyzing yolk contractions in fish eggs and embryos. Output of the script includes plot of normalized timeseries, plot of detrended timeseries, plot of instantaneous period and wavelet power, and plot of phase as heatmaps. 
 
 ## Sample data
 A .csv file with sample data is also included. Sample data contains timeseries of mean pixel value of embryos of goldfish, carp, and zebrafish over time. Mean pixel value of fish embryos is used as proxy of projected area of the yolk, and monitoring it over time allows quantification of yolk contractions.
